@@ -29,4 +29,4 @@ Q: Do I need to register for Tech Symposium?
 
 Q: Do I need to be present at Tech Symposium?
 
->A: Yes the ENTIRE team must be present for the during of the competition. You do not need to be present for the entire day.
+>A: Yes the ENTIRE team must be present for the during of the competition. The exact times will be announced at a later date.
