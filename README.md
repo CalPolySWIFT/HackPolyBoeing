@@ -22,3 +22,11 @@ Q: Will I be given a physical device to test my application?
 Q: Will we be given a data set to train our object detection model or do we have to somehow get it ourselves?
 
 >A: We are going to generate a few snapshots from 3D CAD models but it won’t produce a large enough sample to train a CNN model. I suggest that the students use data augmentation to generate similar images from what we provide to increase their sample size.
+
+Q: Do I need to register for Tech Symposium?
+
+>A: No. Someone from the SWIFT E-Board will register you as a HackPoly: Boeing competitor.
+
+Q: Do I need to be present at Tech Symposium?
+
+>A: Yes the ENTIRE team must be present for the during of the competition. You do not need to be present for the entire day.
