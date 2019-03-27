@@ -17,7 +17,7 @@ Q: Which version of iOS/Android should I be developing my application for?
 
 Q: Will I be given a physical device to test my application?
 
->A: Yes, only if you are developing an Android app. If you are developing on iOS app then you will need to test it using your own device. **We are still waiting to receive the devices from the bookstore. Once they arrive you will be notified immediately.**
+>A: Yes, only if you are developing an Android app. If you are developing on iOS app then you will need to test it using your own device. **We are still waiting to receive the devices from the bookstore. Once they arrive you will be notified immediately.** For the time being an Android device and a 3D printed sample piece has been placed in a breakout room in the CBA (163-1010). You should have access to this room - if you do not please email jennapham@cpp.edu with your CPP email & Bronco ID ASAP.
 
 Q: Do I need to register for Tech Symposium?
 
