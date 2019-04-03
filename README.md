@@ -34,3 +34,10 @@ Q: Will we be given a data set to train our object detection model or do we have
 Q: It was mentioned that there would be stickers placed on the part and we would have to determine the coordinates of the sticker (relative the origin point that Boeing will set) and piece the sticker is on. What kind of stickers are these?
 
 >A: These stickers are simply markers - they do not contain a QR code or anything of the like.
+
+**The following questions and answers are from the meeting with the Boeing Engineers on March 27, 2019.**
+
+Q: What kind of stickers are you guys using to mark the focal points on the parts? If they are something special, will competitors be given access to them before hand?
+
+>A: As we think about it, you can be out buying a million different parts for an airplane and we want you to be able to train your system to be able to pick up any type of color or any type of badge. And also, as we were thinking about it further, we may actually say, "Hey identify the corner of this part" or something like that. So we don't want you to train your software for a specific sticker. We want you to train it to pick up anything. So the answer is, no we're not going to give you access to anything ahead of time.
+So the idea with the sticker was, you know, if you're investigating an area and there is a little piece of corrosion there, we want the software to be able to tell, "hey there's an area that looks like there's some corrosion, what are the coordinates for it?" So that would be one of the functions that the software would do.
