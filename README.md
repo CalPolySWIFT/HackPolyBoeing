@@ -41,6 +41,8 @@ Q: What software can we use to open the .stp file?
 
 **The following questions and answers are from the meeting with the Boeing Engineers on March 27, 2019.**
 
+If you would like to listen to the recording, you can do so here: https://youtu.be/9Obaf0iFVFw
+
 Q: What kind of stickers are you guys using to mark the focal points on the parts? If they are something special, will competitors be given access to them before hand?
 
 >As we think about it, you can be out buying a million different parts for an airplane and we want you to be able to train your system to be able to pick up any type of color or any type of badge. And also, as we were thinking about it further, we may actually say, "Hey identify the corner of this part" or something like that. So we don't want you to train your software for a specific sticker. We want you to train it to pick up anything. So the answer is, no we're not going to give you access to anything ahead of time.
