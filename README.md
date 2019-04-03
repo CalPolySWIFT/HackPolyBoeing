@@ -35,6 +35,10 @@ Q: It was mentioned that there would be stickers placed on the part and we would
 
 >A: These stickers are simply markers - they do not contain a QR code or anything of the like.
 
+Q: What software can we use to open the .stp file?
+
+>A: You can use https://viewer.autodesk.com/ to open and view the .stp files. This does not require you to download anything and is completely free. All you have to do is register for an account.
+
 **The following questions and answers are from the meeting with the Boeing Engineers on March 27, 2019.**
 
 Q: What kind of stickers are you guys using to mark the focal points on the parts? If they are something special, will competitors be given access to them before hand?
