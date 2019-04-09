@@ -48,3 +48,12 @@ Q: What kind of stickers are you guys using to mark the focal points on the part
 >As we think about it, you can be out buying a million different parts for an airplane and we want you to be able to train your system to be able to pick up any type of color or any type of badge. And also, as we were thinking about it further, we may actually say, "Hey identify the corner of this part" or something like that. So we don't want you to train your software for a specific sticker. We want you to train it to pick up anything. So the answer is, no we're not going to give you access to anything ahead of time.
 
 >So the idea with the sticker was, you know, if you're investigating an area and there is a little piece of corrosion there, we want the software to be able to tell, "hey there's an area that looks like there's some corrosion, what are the coordinates for it?" So that would be one of the functions that the software would do. The other function is recognize parts and you have a fastner that needs to be replaced and so we'll have little fastner heads in the printed model, that we (Boeing) give you and so recognizing the head of a hex bolt or something like that. So it's more geometry based than it is a flat sticker.
+
+Q: The goal is to detect corrosion but at this point do you want the tool to detect corrosion? Or just detect what part it is that has corrosion? Will corrosion detection be done manually?
+
+>Yeah the corrosion would be the operator looking through the device, IDs an area of suspicion and so the software doesn't need to recognize the corrosion, it just needs to see where the
+crosshairs pointed at.
+
+>I think it's more where you point the crosshair on the assembly it'll give you the location on that software. It could be something where somebody sees a crack forming, you have to know location. See there’s some hydraulic fluid or some grease leaking from a joint and so where is that you know is. Automatically mark it in some other database that you know maintenance database system.
+
+>Because right now one of the problems we have is so most of the people that are maintaining these Air Force airplanes, they only have a high school degree and it's like you're going out to change the oil in your car but we're telling them to do all this documentation and they're like I just want change the oil in the car and go play pool. The paperwork is a pain in the rear.
